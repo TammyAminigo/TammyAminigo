@@ -8,7 +8,7 @@
 - 🏗️ Deepening my understanding of system architecture and software design principles
 - 🚀 Open to collaborating on automation and backend projects
 
-# Skills
+## Skills
    
 
 
