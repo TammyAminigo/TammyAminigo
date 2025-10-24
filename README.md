@@ -3,7 +3,7 @@
 ## Software Quality Assurance Engineer
 
 - 🌍 Based in **Abuja, Nigeria**
-- 📬 **tammyaminigo65@gmail.com**
+- 📬 You can contact me at **tammyaminigo65@gmail.com**
 - 🧠 Enhancing my expertise in **test automation and system reliability**
 - 🏗️ Deepening my understanding of system architecture and software design principles
 - 🚀 Open to collaborating on automation and backend projects
