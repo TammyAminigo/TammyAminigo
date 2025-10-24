@@ -1,4 +1,4 @@
-## Hi there, I'm Tammy Norman Aminigo! 👋
+# Hi there, I'm Tammy Norman Aminigo! 👋
 
 ## Software Quality Assurance Engineer
 
