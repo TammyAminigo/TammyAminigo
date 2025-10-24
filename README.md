@@ -1,5 +1,11 @@
 ## Hi there, I'm Tammy Norman Aminigo! 👋
 
+**Software Quality Assurance Engineer
+🌍 Based in **Abuja, Nigeria**
+   
+
+
+
 
 
 <!--
