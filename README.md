@@ -22,3 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cypress.svg" alt="Cypress" width="45" height="45"/>
 </p>
 
+## Connect with me
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>](https://www.linkedin.com/in/tammyaminigo)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="45" height="45" alt="Discord"/>](https://discord.com/users/436243555187425280)
